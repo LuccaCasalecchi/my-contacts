@@ -16,5 +16,6 @@ module.exports = {
     'import/no-extraneous-dependencies': 'off',
     'no-promise-executor-return': 'off',
     'padded-blocks': 'off',
+    camelcase: 'off',
   },
 };
