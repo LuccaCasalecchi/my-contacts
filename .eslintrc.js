@@ -17,5 +17,6 @@ module.exports = {
     'no-promise-executor-return': 'off',
     'padded-blocks': 'off',
     camelcase: 'off',
+    'no-multiple-empty-lines': 'off',
   },
 };
