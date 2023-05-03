@@ -18,5 +18,6 @@ module.exports = {
     'padded-blocks': 'off',
     camelcase: 'off',
     'no-multiple-empty-lines': 'off',
+    'linebreak-style': 'off',
   },
 };
